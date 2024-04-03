@@ -1,5 +1,7 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+
+/* Importando Componentes */
 import PaginaInicial from './componentes/paginaInicial';
 
 function App() {
